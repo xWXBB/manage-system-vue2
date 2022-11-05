@@ -5,7 +5,7 @@
       :collapse="isCollapse"
       class="el-menu-vertical-demo"
       background-color="#545c64"
-      text-color="#fff"
+      
       active-text-color="#ffd04b"
     >
       <el-menu-item index="/Main" @click="selectMain">
